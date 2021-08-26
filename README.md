@@ -1,3 +1,5 @@
+[![CI](https://github.com/JohnScottUK/JohnScottUK/actions/workflows/update_readme.yml/badge.svg)](https://github.com/JohnScottUK/JohnScottUK/actions/workflows/update_readme.yml)
+
 <table><thead><tr><th valign="top" width="50%">About Me</th><th valign="top" width="50%">Blog</th>
 </thead><tbody><tr>
 <td valign="top">
