@@ -21,7 +21,7 @@ entries = [
 ]
 
 print("Generating markdown...")
-markdown = "\n".join(["* [{0}]({1})<sup>{2}</sup>".format(entry["title"], entry["link"], entry["published"].strftime("%d %b %Y")) for entry in entries])
+markdown = "\n".join(["* [{0}]({1}) <sup>{2}</sup>".format(entry["title"], entry["link"], entry["published"].strftime("%d %b %Y")) for entry in entries])
 
 print("Reading '{}'...".format(filename))
 with open(filename) as f:
