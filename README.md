@@ -1,11 +1,8 @@
 [![CI](https://github.com/JohnScottUK/JohnScottUK/actions/workflows/update_readme.yml/badge.svg)](https://github.com/JohnScottUK/JohnScottUK/actions/workflows/update_readme.yml)
 
-<table><thead><tr><th valign="top" width="50%">About Me</th><th valign="top" width="50%">Blog</th>
-</thead><tbody><tr>
-<td valign="top">
+<table><thead><tr><th valign="top" width="50%">About Me</th><th valign="top" width="50%">Blog</th></tr></thead><tbody><tr><td valign="top">
 I currently work for a bank in the UK, specifically working in the area of APIs and integration. I use a pragmatic blend of APIs, EDA, ESBs, REST, SOA, Web Services and more to connect and integrate systems. The contents of this site are entirely my own and do not represent the views or opinions of my employer.
-</td>
-<td valign="top"><!-- begin blog -->
+</td><td valign="top"><!-- begin blog -->
 
 * [Uncle Bob](https://www.jsware.io/terminator/2021/08/20/T-800-nicely/) <sup>20 Aug 2021</sup>
 * [The UML: A little more than boxes and lines](https://www.jsware.io/architecture/2021/08/11/The-UML/) <sup>11 Aug 2021</sup>
