@@ -4,7 +4,7 @@
 I currently work for a bank in the UK, specifically working in the area of APIs and integration. I use a pragmatic blend of APIs, EDA, ESBs, REST, SOA, Web Services and more to connect and integrate systems. The contents of this site are entirely my own and do not represent the views or opinions of my employer.
 </td><td valign="top"><!-- begin blog -->
 
-* [Uncle Bob’s Brain Broke](https://www.jsware.io/terminator/2021/11/01/Bobs-Brain-Broke/) <sup>01 Nov 2021</sup>
+* [Uncle Bob’s Tricky Halloween](https://www.jsware.io/terminator/2021/11/01/Tricky-Halloween/) <sup>01 Nov 2021</sup>
 * [Full Bodied Bob](https://www.jsware.io/terminator/2021/10/05/Full-Bodied-Bob/) <sup>05 Oct 2021</sup>
 * [Jekyll Related Posts](https://www.jsware.io/programming/2021/09/13/Jekyll-Related-Posts/) <sup>13 Sep 2021</sup>
 * [Awesome Actions!](https://www.jsware.io/programming/2021/08/27/GitHub-Actions/) <sup>27 Aug 2021</sup>
