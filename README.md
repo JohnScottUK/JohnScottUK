@@ -4,6 +4,7 @@
 I currently work for a bank in the UK, specifically working in the area of APIs and integration. I use a pragmatic blend of APIs, EDA, ESBs, REST, SOA, Web Services and more to connect and integrate systems. The contents of this site are entirely my own and do not represent the views or opinions of my employer.
 </td><td valign="top"><!-- begin blog -->
 
+* [Fully Modified Uncle Bob](https://www.jsware.io/terminator/2022/03/27/Full-Mod-Bob/) <sup>27 Mar 2022</sup>
 * [Calling Time on my Time Capsule](https://www.jsware.io/general/2021/12/12/Timecapsule/) <sup>12 Dec 2021</sup>
 * [Uncle Bob’s Tricky Halloween](https://www.jsware.io/terminator/2021/11/01/Tricky-Halloween/) <sup>01 Nov 2021</sup>
 * [Full Bodied Bob](https://www.jsware.io/terminator/2021/10/05/Full-Bodied-Bob/) <sup>05 Oct 2021</sup>
@@ -13,6 +14,5 @@ I currently work for a bank in the UK, specifically working in the area of APIs 
 * [The UML: A little more than boxes and lines](https://www.jsware.io/architecture/2021/08/11/The-UML/) <sup>11 Aug 2021</sup>
 * [Bashing out script locations](https://www.jsware.io/programming/2021/06/28/Bashing-out-script-locations/) <sup>28 Jun 2021</sup>
 * [I’m gonna need a bigger box](https://www.jsware.io/terminator/2021/06/19/Terminator-T-800/) <sup>19 Jun 2021</sup>
-* [Migrating to Minimal Mistakes](https://www.jsware.io/programming/2021/05/31/Migrating-to-Minimal-Mistakes/) <sup>31 May 2021</sup>
 <!-- end blog -->
 </td></tr></tbody></table>
